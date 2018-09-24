@@ -10,6 +10,5 @@ public class Visit {
     @Id
     @GeneratedValue
     public Long id;
-
     public String description;
 }
